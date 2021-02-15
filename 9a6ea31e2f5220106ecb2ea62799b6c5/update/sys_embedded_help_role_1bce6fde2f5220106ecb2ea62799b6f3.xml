@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_294767_contract.admin" name="x_294767_contract.admin">13ce6fde2f5220106ecb2ea62799b6f1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>john.staudt</sys_created_by>
+        <sys_created_on>2021-02-15 16:51:42</sys_created_on>
+        <sys_id>1bce6fde2f5220106ecb2ea62799b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>13ce6fde2f5220106ecb2ea62799b6f1</sys_name>
+        <sys_package display_value="Contract Tracker" source="x_294767_contract">9a6ea31e2f5220106ecb2ea62799b6c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contract Tracker">9a6ea31e2f5220106ecb2ea62799b6c5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1bce6fde2f5220106ecb2ea62799b6f3</sys_update_name>
+        <sys_updated_by>john.staudt</sys_updated_by>
+        <sys_updated_on>2021-02-15 16:51:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Contracts" max_length="40" name="x_294767_contract_contracts" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Contract Number" max_length="40" name="contract_number" type="string"/>
+    </element>
+</database>
